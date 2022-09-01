@@ -1,0 +1,15 @@
+C:\Code\Core\SLCU\SLCU\bin\Debug\net6.0\SLCU.exe
+C:\Code\Core\SLCU\SLCU\bin\Debug\net6.0\SLCU.deps.json
+C:\Code\Core\SLCU\SLCU\bin\Debug\net6.0\SLCU.runtimeconfig.json
+C:\Code\Core\SLCU\SLCU\bin\Debug\net6.0\SLCU.dll
+C:\Code\Core\SLCU\SLCU\bin\Debug\net6.0\SLCU.pdb
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\SLCU.csproj.AssemblyReference.cache
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\SLCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\SLCU.AssemblyInfoInputs.cache
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\SLCU.AssemblyInfo.cs
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\SLCU.csproj.CoreCompileInputs.cache
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\SLCU.dll
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\refint\SLCU.dll
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\SLCU.pdb
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\SLCU.genruntimeconfig.cache
+C:\Code\Core\SLCU\SLCU\obj\Debug\net6.0\ref\SLCU.dll
