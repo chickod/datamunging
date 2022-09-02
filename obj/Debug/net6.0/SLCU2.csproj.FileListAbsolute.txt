@@ -1,0 +1,15 @@
+C:\Code\Core\SLCU\SLCU2\SLCU2\bin\Debug\net6.0\SLCU2.exe
+C:\Code\Core\SLCU\SLCU2\SLCU2\bin\Debug\net6.0\SLCU2.deps.json
+C:\Code\Core\SLCU\SLCU2\SLCU2\bin\Debug\net6.0\SLCU2.runtimeconfig.json
+C:\Code\Core\SLCU\SLCU2\SLCU2\bin\Debug\net6.0\SLCU2.dll
+C:\Code\Core\SLCU\SLCU2\SLCU2\bin\Debug\net6.0\SLCU2.pdb
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\SLCU2.csproj.AssemblyReference.cache
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\SLCU2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\SLCU2.AssemblyInfoInputs.cache
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\SLCU2.AssemblyInfo.cs
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\SLCU2.csproj.CoreCompileInputs.cache
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\SLCU2.dll
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\refint\SLCU2.dll
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\SLCU2.pdb
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\SLCU2.genruntimeconfig.cache
+C:\Code\Core\SLCU\SLCU2\SLCU2\obj\Debug\net6.0\ref\SLCU2.dll
