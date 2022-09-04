@@ -13,7 +13,7 @@ namespace SLCU
             }
 
             return days
-                .OrderByDescending(d => d.Range)
+                .OrderBy(d => d.Range)
                 .FirstOrDefault();
         }
     }

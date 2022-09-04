@@ -6,17 +6,25 @@ namespace SLCU
 {
     public class DataFileReader
     {
-        public string[] ParseFile(string path)
+        private readonly string? basePath;
+        private readonly string? baseDirectory;
+        private string fileName;
+
+        public DataFileReader(string path)
         {
-            string[] lines = File.ReadAllText(path).Split(new string[] { "\n" }, StringSplitOptions.None);
-            return lines;
+            basePath = System.Reflection.Assembly.GetExecutingAssembly().Location;
+            baseDirectory = Path.GetDirectoryName(basePath);
+            fileName = $"{baseDirectory}\\{path}";
+        }
+
+        public string[] ParseFile()
+        {
+            return File.ReadAllText(fileName).Split(new string[] { "\n" }, StringSplitOptions.None);
         }
 
         public string[] ParseLine(string line)
         {
-            //string[] fields = line.Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries);
-            string[] fields = Regex.Split(line, @"\s+");
-            return fields;
+            return Regex.Split(line, @"\s+");
         }
     }
 }
