@@ -5,7 +5,7 @@ namespace SLCU2
 {
     public class Program
     {
-        static string soccerFile = @"C:\Users\chick\OneDrive\Documents\Career\Current Opportunities\Student Loan Credit Union\football.dat";
+        static string soccerFile = "football.dat";
 
         public static void Main(string[] args)
         {
@@ -13,8 +13,8 @@ namespace SLCU2
 
             var teams = new List<FootballData>();
 
-            var reader = new DataFileReader();
-            var soccerData = reader.ParseFile(soccerFile);
+            var reader = new DataFileReader(soccerFile);
+            var soccerData = reader.ParseFile();
 
             // First row is a header
             for (var x = 1; x < soccerData.Length - 5; x++)
